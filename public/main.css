@@ -1,0 +1,40 @@
+h1 {
+  color: #48AFF0;
+  font-family: sans-serif;
+  font-size: 70px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+body {
+  font-family: sans-serif;
+  color: #5C7080;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  color: #0E5A8A;
+}
+
+input {
+  display: block;
+  font-size: 15px;
+  width: 200px;
+}
+
+button {
+  margin-top: 10px;
+  width: 50px;
+  font-size: 15px;
+  padding: 5px;
+  background-color: #3DCC91;
+  border-color: #15B371;
+  color: white;
+}

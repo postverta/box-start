@@ -1,0 +1,28 @@
+{
+  "name": "expressjs-start",
+  "version": "0.1.0",
+  "description": "Starting project for expressjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/postverta/expressjs-start.git"
+  },
+  "keywords": [
+    "expressjs"
+  ],
+  "author": "Ang Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/postverta/expressjs-start/issues"
+  },
+  "homepage": "https://github.com/postverta/expressjs-start#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "pug": "^2.0.0-rc.3",
+    "body-parser": "^1.17.2",
+    "box-node-sdk": "^1.7.0"
+  }
+}
